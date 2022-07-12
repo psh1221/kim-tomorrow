@@ -1,2 +1,7 @@
 p {
-  color: blue; }
+  color: blue;
+  display: block;
+  background: pink; }
+
+* {
+  font-family: 'Noto Sans KR', sans-serif; }
